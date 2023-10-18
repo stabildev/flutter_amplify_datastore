@@ -34,7 +34,7 @@ type Workout @model @auth(rules: [{ allow: owner }]) {
 4. Run `amplify codegen models` to generate models
 5. Run `amplify add auth` to add authentication
 
-- Select `Email` as a sign-in method
+- Select `Email` as the sign-in method
 
 6. Run `amplify push` to provision the backend
 7. Run `flutter run` to start the app
