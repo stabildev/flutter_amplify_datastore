@@ -1,6 +1,6 @@
 # Offline-first Flutter app with Amplify Auth, DataStore and GoRouter
 
-To see the full tutorial from scratch, view tutorial.md
+To see the full tutorial from scratch, click [here](./tutorial.md)
 
 ## Prerequisites
 
