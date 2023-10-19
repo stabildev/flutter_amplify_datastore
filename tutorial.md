@@ -25,7 +25,7 @@ platform :ios, '13.0'
 ```
 defaultConfig {
     ...
-    minSdkVersion 21
+    minSdkVersion 24
     ...
 }
 ```

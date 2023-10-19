@@ -2,6 +2,9 @@
 
 To see the full tutorial from scratch, click [here](./tutorial.md)
 
+> minSdkVersion 24
+> deploymentTarget 13.0
+
 ## Prerequisites
 
 - Set up Flutter and the Amplify CLI (follow the [Project setup guide](https://docs.amplify.aws/lib/project-setup/prereq/q/platform/flutter/))
